@@ -4,6 +4,7 @@ public class GitDemo {
 
 	public static void main(String[] args) {
 		System.out.println("Welcome message from Monisha.");
+		System.out.println("Hello, Everyone.");
 
 	}
 
